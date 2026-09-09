@@ -6,3 +6,8 @@ Undergraduate at CU Boulder studying Geography w/ GIS emphasis, minor in Atmosph
 ### Contact Information
 * michael.pitts@colorado.edu
 * [www.linkedin.com/in/michaelpitts21](www.linkedin.com/in/)
+
+### Lake Peachtree
+Map of Lake Peachtree located in Peachtree City, Georgia.
+
+<embed type="text/html" src="img/lakeptc.html" width="600" height="600">

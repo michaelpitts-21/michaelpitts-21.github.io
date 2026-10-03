@@ -30,7 +30,7 @@ in annual temperature.
 
 ## Annual Temperature Trends
 
-<embed type="png" src="img/ptc_temp_trend.png" width="600" height="600">
+<img src="img/ptc_temp_trend.png" width="600">
 
 **Figure 1. Annual average temperature in Boulder, Colorado.**
 

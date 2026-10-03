@@ -1,3 +1,8 @@
+## Portfolio Projects
+
+[Long-Term Temperature Trends in Peachtree City](ptc.md)
+
+
 ## Overview
 
 This project examines long-term changes in annual average temperature

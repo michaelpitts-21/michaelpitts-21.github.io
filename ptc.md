@@ -1,6 +1,8 @@
-## Portfolio Projects
-
-[Long-Term Temperature Trends in Peachtree City](ptc.md)
+---
+layout: page
+title: Boulder Temperature Analysis
+permalink: /ptc-temperature/
+---
 
 
 ## Overview

@@ -13,7 +13,7 @@ Map of Lake Peachtree located in Peachtree City, Georgia.
 <embed type="text/html" src="img/lakeptc.html" width="600" height="600">
 
 
-
+### Temperature Trend in Peachtree City, Georgia
 
 ## Overview
 

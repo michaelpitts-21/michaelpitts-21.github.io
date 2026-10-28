@@ -46,7 +46,7 @@ Overall, the Peachtree City climate record shows an increase in temperature. How
 
 ## American White Pelican Migration
 
-<embed type="text/html" src="img/pelicans6.html" width="400" height="300">
+<embed type="text/html" src="img/pelicans6.html" width="600" height="600">
 
 
 

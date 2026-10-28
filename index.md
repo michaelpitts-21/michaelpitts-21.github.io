@@ -58,6 +58,7 @@ GBIF occurrence records provide georeferenced observations of the species. These
 ### Methods
 
 Occurrence records were retrieved from GBIF and processed using Python. Geographic data was prepared and combined with the occurrence records to produce visualization. The resulting map displays observations in their geographic context alongside ecoregion boundaries.
+
 ### Interactive Map
 
 <embed type="text/html" src="img/pelicans6.html" width="600" height="600">
@@ -68,19 +69,21 @@ Occurrence records were retrieved from GBIF and processed using Python. Geograph
 
 **Migration patterns and Geographic Distrubution:**
 
-- Winter (December–February): Observations of American White Pelicans are highly concentrated around the Gulf, into Central America, around the Gulf of California, and have a notable presence in Cuba. Of these four regions, American White Pelicans are most concentrated around the Gulf of Mexico and the northern half of the Gulf of California. 
+- Winter (December–February): Observations of American White Pelicans are highly concentrated around the Gulf of Mexico, into Central America, around the Gulf of California, and have a notable presence in Cuba. Of these four regions, American White Pelicans are most concentrated around the Gulf of Mexico and the northern half of the Gulf of California. 
 
-- Spring migration (March–April): Beginning in March, the highest values move to the northward to the lower Mississippi Valley and into the interior Great Basin. Come April, the highest concentrations have moved into the upper Mississippi Vally, spread further north in the Great Basin, and also have a notable prescnece in the Central Rockies adn southern plains of Canada. 
+- Spring migration (March–April): Beginning in March, the highest values move to the northward to the lower Mississippi Valley and into the interior Great Basin. Come April, the highest concentrations have moved into the upper Mississippi Vally, spread further north in the Great Basin, and also have a notable prescnece in the Central Rockies and southern plains of Canada. 
 
 - Nesting season (May–September): Observations become clearly concentrated in the northern Great Plains, Great Basin, and the interior Rockies from Colorado up to the Canadian border, as well as interior British Columbia. American White Pelicans also have a presence around the Great Lakes during this time, however more insignificant. In September, all of these areas continue to see concentrated observations, but these concentrations become less and have a shift southward as some White Pelicans begin to migrate back to more southerly latitudes. 
 
 - Fall migration (October–November): In October, migration patterns are almost repeated exactly the same as in the spring migration. However, there does appear to be another path taekn in the fall migration through the Central Valley in California, where water and food may be more available as compared to the Great Basin route at this time of year. 
 
-**Research Context:** While research generally follows the patterns as described above, there is research that suggests some nuances in American White Pelican migration. Their migartion has shiftied to much earlier in the year jsut in bewween the years of 2002 and 2011, and is locial to assume that has shifted earlier at the time of this observation data that was tken in 2024. However, this shift has not been directly linked to enovirmnetmetal factos. Facotrs such as emtperiate and precipatiation wre considered, and had no impact on the timing of the migatnion and evataul arrival at variou sbreedding grounds ((King et al., 2017).
+**Research Context:** While research generally follows the patterns as described above, there is research that suggests some nuances in American White Pelican migration. Their migration has shifted to much earlier in the year just in between the years of 2002 and 2011, and is logical to assume that has shifted earlier at the time of this observation data that was taken in 2024. However, this shift has not been directly linked to environmental factors. Factors such as temperate and precipitation were considered, and had no impact on the timing of the migration and eventual arrival at various breeding grounds (King et al., 2017).
+
+**Limitations:** This data only covers 2024, so patterns may differ in other years or from the average trend. Additionally, these observations are observer based and can be biased based on population density and if people share what they see. The observations seem to be relatively normal, but there is a huge spike in American White Pelican observations around the Great Lakes in May, with much lower obserations immedietely after. This suggests some kind of obseravation bias that may be preenst elsewerher in the data. 
 
 ## References
 
-GBIF.org. ([Year accessed]). *GBIF occurrence download for American White Pelican (*Pelecanus erythrorhynchos*).* [Insert your specific GBIF download DOI or link.]
+GBIF.org (26 October 2026) GBIF Occurrence Download https://doi.org/10.15468/dl.ae872n
 
 King, D., Wang, G., Yang, Z. et al. Advances and Environmental Conditions of Spring Migration Phenology of American White Pelicans. Sci Rep 7, 40339 (2017). https://doi.org/10.1038/srep40339
 

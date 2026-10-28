@@ -46,7 +46,41 @@ Overall, the Peachtree City climate record shows an increase in temperature. How
 
 ## American White Pelican Migration
 
+## Species and Overview
+
+American White Pelicans are one of the largest birds in North America. They spend their winters along the Gulf Coast, Mexico, Baja California, and California. When the weather warms, they migrate north to their nesting areas which include broad swaths of the Great Basin and the Great Plains, within the northern United States and into Canada (U.S. Army Corps of Engineers, St. Louis District, n.d.). This project displays the geographic distribution of American White Pelican occurrence records using an interactive map. The visualization uses georeferenced observations to explore spatial patterns across the species' range and examine how its distribution relates to seasonal migration.
+
+## Interactive Map
+
 <embed type="text/html" src="img/pelicans6.html" width="600" height="600">
+
+The map displays American White Pelican occurrence records alongside ecoregion boundaries to provide geographic and ecological context.
+
+## Data Sources
+
+GBIF occurrence records provide georeferenced observations of the species. These records document reported locations rather than representing a complete census of the population. However, GBIF occurrence records are opportunistic observations and may be unevenly distributed. The map illustrates documented occurrences, not continuous migration routes or population abundance. Confirming seasonal migration patterns would require examining observation dates and comparing them with established research on the species.
+
+## Methods
+
+Occurrence records were retrieved from GBIF and processed using Python. Geographic data was prepared and combined with the occurrence records to produce visualization. The resulting map displays observations in their geographic context alongside ecoregion boundaries.
+
+## Key Observations
+
+- **Geographic distribution:** [Describe the major concentrations and broad distribution visible on the map.]
+- **Migration patterns:** [Describe any apparent north–south or seasonal patterns supported by the records.]
+- **Ecoregion context:** [Note any visible geographic patterns relative to the ecoregion boundaries.]
+
+These patterns provide a starting point for exploring the species' distribution and migration. However, occurrence density can reflect observer effort and data availability as well as the species' actual distribution.
+
+## Limitations
+
+GBIF occurrence records are opportunistic observations and may be unevenly distributed across space and time. The map illustrates documented occurrences, not continuous migration routes or population abundance. Confirming seasonal migration patterns would require examining observation dates and comparing them with established research on the species.
+
+## References
+
+GBIF.org. ([Year accessed]). *GBIF occurrence download for American White Pelican (*Pelecanus erythrorhynchos*).* [Insert your specific GBIF download DOI or link.]
+
+U.S. Army Corps of Engineers, St. Louis District. (n.d.). Pelican migration sheet [PDF]. https://www.mvs.usace.army.mil/Portals/54/docs/recreation/rivers/Birds/Pelican%20Migration%20Sheet.pdf
 
 
 

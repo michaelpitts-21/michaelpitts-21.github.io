@@ -67,7 +67,7 @@ Occurrence records were retrieved from GBIF and processed using Python. Geograph
 
 ### Key Observations
 
-**Migration patterns and Geographic Distrubution:**
+**Migration patterns and Geographic Distribution:**
 
 - Winter (December–February): Observations of American White Pelicans are highly concentrated around the Gulf of Mexico, into Central America, around the Gulf of California, and have a notable presence in Cuba. Of these four regions, American White Pelicans are most concentrated around the Gulf of Mexico and the northern half of the Gulf of California. 
 
@@ -77,9 +77,9 @@ Occurrence records were retrieved from GBIF and processed using Python. Geograph
 
 - Fall migration (October–November): In October, migration patterns are almost repeated exactly the same as in the spring migration. However, there does appear to be another path taken in the fall migration through the Central Valley in California, where water and food may be more available as compared to the Great Basin route at this time of year. 
 
-**Research Context:** While research generally follows the patterns as described above, there is research that suggests some nuances in American White Pelican migration. Their migration has shifted to much earlier in the year just in between the years of 2002 and 2011, and is logical to assume that has shifted earlier at the time of this observation data that was taken in 2024. However, this shift has not been directly linked to environmental factors. Factors such as temperate and precipitation were considered, and had no impact on the timing of the migration and eventual arrival at various breeding grounds (King et al., 2017).
+**Research Context:** Previous research documented advances in American White Pelican spring migration timing between 2002 and 2011. King et al. (2017) found that spring departure and arrival dates became earlier over the study period, although the observed changes were not explained by winter temperature, precipitation, or vegetation green-up timing. These findings provide useful context for interpreting the seasonal distribution of occurrence records in this project. However, because this visualization represents observations from 2024 rather than tracked individuals across multiple years, it cannot determine whether the earlier migration trend continued or identify the environmental factors influencing migration timing.
 
-**Limitations:** This data only covers 2024, so patterns may differ in other years or from the average trend. Additionally, these observations are observer based and can be biased based on population density and if people share what they see. The observations seem to be relatively normal, but there is a huge spike in American White Pelican observations around the Great Lakes in May, with much lower observations immediately after. This suggests some kind of observation bias that may be present elsewhere in the data. 
+**Limitations:** This data only covers 2024, so patterns may differ in other years or from the average trend. Additionally, these observations are observer based and can be biased based on population density and if people share what they see. A noticeable spike in May observations around the Great Lakes, followed by much fewer records in following months, may reflect differences in sampling effort, reporting activity, or actual seasonal distribution. Additional data would be needed to find the cause of this spike.
 
 ## References
 

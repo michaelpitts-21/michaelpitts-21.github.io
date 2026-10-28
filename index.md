@@ -45,6 +45,7 @@ This site is located in an area where there has been minimal change in immediate
 Overall, the Peachtree City climate record shows an increase in temperature. However, this station may be biased post-mid-2010s due to changes in local geography with the introduction of Lake Mcintosh. A noticeable jump in temperature right after the reservoir filled gives reason to believe it may be influencing this site. I think it would be important to gather data from other stations in the area and compare to see if they had a similar jump in temperature around the same time in order to make a full conclusion about temperature trends in the area.
 
 
+
 ## American White Pelican Migration
 
 ### Species and Overview

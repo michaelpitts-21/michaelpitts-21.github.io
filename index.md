@@ -46,15 +46,15 @@ Overall, the Peachtree City climate record shows an increase in temperature. How
 
 ## American White Pelican Migration
 
-<section id="pelican6">
+<section id="pelican-map">
   <h2>White Pelican Migration by Month</h2>
   <p>
-    Explore seasonal patterns in American White Pelican
-    occurrences across ecoregions.
+    Explore monthly patterns in American White Pelican occurrences
+    across ecoregions.
   </p>
 
   <iframe
-    src="./maps/pelicans.html"
+    src="img/pelican6.html"
     width="100%"
     height="700"
     style="border: none;"

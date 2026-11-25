@@ -147,7 +147,9 @@ This table shows the quick recovery of vegetation in the park. Within months of 
 
 The immediate region around Great Smoky Mountains National Park experienced one of its worst droughts on record. The immediate short term impacts were felt especially along waterways and in animal behavior, yet it had minimal long term effects. Canopy health and overall vegetation health were back to pre-drought levels only months later. 
 
-Timing is the main factor that contributed to such a quick recovery in vegetation health. The drought peaked in the fall, when radial and canopy development was done for the year ((Van Kampen et al.). Additionally, the spring and early summer was met with warm temperatures and plentiful rainfall. It has been demonstrated that subsequent-year spring weather accounts for upwards of 50% of ecosystem drought recovery speed. Normal or early warm spring conditions paired with moisture allows deciduous canopies to rebound within a single growing season, whereas delayed springs slow recovery ((Li et al. 184). This was a perfect storm of one of the worst droughts in decades having little to no impact on vegetation health within the park.
+Timing is the main factor that contributed to such a quick recovery in vegetation health. The drought peaked in the fall, when radial and canopy development was done for the year ((Van Kampen et al.). Additionally, the spring and early summer was met with warm temperatures and plentiful rainfall. It has been demonstrated that subsequent-year spring weather accounts for upwards of 50% of ecosystem drought recovery speed. Normal or early warm spring conditions paired with moisture allows deciduous canopies to rebound within a single growing season, whereas delayed springs slow recovery (Li et al. 184). This was a perfect storm of one of the worst droughts in decades having little to no impact on vegetation health within the park.
+
+Given more time, looking into the recovery around the Chimney Tops 2 fire would be a valuable topic. Fires of that size are rare in Appalachia, and would be a great case study in recovery and how to approach fires in the future in the area.
 
 ## References
 

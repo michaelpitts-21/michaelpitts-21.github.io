@@ -108,9 +108,28 @@ The park is also the most visited national park in the country, peaking at over 
 ### Data and Methods
 
 ### Context
+
 <img src="img/20161129_usdm.png" width="600">
+
+**Figure 1. Drought monitor at the peak of the drought in GSMNP.**
+
+As shown in the figure above, Great Smoky Mountains National Park was expereicencing D3 and 
+D4 drought conditions. Regional soil moisture values had fallen to the second lowest level since 1895. Additioanlly, well above average fall temperatures led to headwater streams going dry, osilting fish and wildlife into pockets (Williams et al.). 
 
 <embed type="text/html" src="img/gsmnp_dndvi1516.html" width="700" height="600">
 
+**Figure 2. dNDVI from 2015 to 2016.**
+
+The interactive map above shows the differnece in NDVI acorss the park. The drought clearly has an imemditee effect on vegation, with values dropping notably acorss teh park. 
 
 <embed type="text/html" src="img/gsmnp_dndvi1517.html" width="700" height="600">
+
+**Figure 3. dNDVI from 2015 to 2017.**
+
+The interactive map above shows the differnece in NDVI acorss the park. Come 2017, the majorty of the park has reboudned to pre-drought levels of vegation health. 
+
+
+
+## References
+
+Williams, A. Park, et al. "The 2016 Southeastern US Drought: An Extreme Departure from Centennial Wetting and Cooling." Journal of Geophysical Research: Atmospheres, vol. 122, no. 20, 27 Oct. 2017, pp. 10888-905. https://doi.org/10.1002/2017JD027523.

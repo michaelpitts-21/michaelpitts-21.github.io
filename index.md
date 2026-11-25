@@ -134,7 +134,9 @@ The interactive map above shows the difference in NDVI across the park. Come 201
 
 <img src="img/Screenshot%202026-11-24%20195320.png" width="600">
 
-**Figure 4. NDVI values from 2105, 2016, and 2017.**
+**Figure 4. NDVI values from 2015, 2016, and 2017.**
+
+This table shows the quick recovery of vegetation in the park. Within months of the drought ending, NDVI values were back to where they were pre-drought, even with 11,000 acres in the park being burnt in 2016. 
 
 ### Conclusion
 

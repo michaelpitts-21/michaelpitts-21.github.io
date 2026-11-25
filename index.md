@@ -95,3 +95,4 @@ U.S. Army Corps of Engineers, St. Louis District. (n.d.). Pelican migration shee
 
 
 
+### dNDVI in Great Smoky Mountains National Park Before, During, and After 2016 Drought

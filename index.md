@@ -101,18 +101,19 @@ U.S. Army Corps of Engineers, St. Louis District. (n.d.). Pelican migration shee
 
 ### Area Overview
 
-Great Smoky Mountains National Park is located in the Southern Appalachian Mountains, where it straddles the Tennessee and North Carolina border approximately 25 miles to the south of Knoxville, Tennessee and 30 miles west of Asheville, North Carolina. The park spans over 800 square miles, or more than 500,000 acres and has elevations ranging from 875 feet to 6,643 feet at the summit of Kuwohi. Precipitaion is plentifyul within the park, with around 55 inches of annual precipitaion at the lower evelations and up to 85 inches each year on the parks highest peaks and favored ridges. 
+Great Smoky Mountains National Park is located in the Southern Appalachian Mountains, where it straddles the Tennessee and North Carolina border approximately 25 miles to the south of Knoxville, Tennessee and 30 miles west of Asheville, North Carolina. The park spans over 800 square miles, or more than 500,000 acres and has elevations ranging from 875 feet to 6,643 feet at the summit of Kuwohi. Precipitation is plentiful within the park, with around 55 inches of annual precipitation at the lower elevations and up to 85 inches each year on the park's highest peaks and favored ridges. 
 
-The diverse range of elevation and high precipatin totals in the continiaal United staes outisde of the olympic Peniusla in Washingotn create an excetioanl envirnment for biodvierstity. The park is home to over 22,700 species, with around 1,000 of thsoe being unique to the area. Due to an extemyl moist climate, the park is home to 30 salamander species, the hgihest concentration in the world. The park has an exceptionally diverse palnt community arpparoching 2,500 unique species, but in gneral is dominted by spruce-fir, pine-oak, and oak-hickory among others depending on elcation ans aspect.
+The diverse range of elevation and high precipitation totals in the continental United States outside of the Olympic Peninsula in Washington create an exceptional environment for biodiversity. The park is home to over 22,700 species, with around 1,000 of those being unique to the area. Due to an extremely moist climate, the park is home to 30 salamander species, the highest concentration in the world. The park has an exceptionally diverse plant community approaching 2,500 unique species, but in general is dominated by spruce-fir, pine-oak, and oak-hickory among others depending on elevation and aspect.
 
-The park is also the most visited national park in the country, peaking at over 14 million visitors in 2021. This is mainly due to the fact the park in located close to major population centers such as Nashville, Charlotte, and Atlanta. 
+The park is also the most visited national park in the country, peaking at over 14 million visitors in 2021. This is mainly due to the fact the park is located close to major population centers such as Nashville, Charlotte, and Atlanta (Park Statistics).
 
 ### Data and Methods
 
-* Study area: I used the Great Smoky Mountains National Park boundary from the National Park Service (Figure 1).
+* Study area: I used the boundary of Great Smoky Mountains National Park from the National Park Service's boundaries dataset, which I downloaded as a geodatabase from the NPS Data Store and loaded in Python.
 
-* NDVI data: I used NDVI from MODIS, a sensor on NASA's Terra satellite. The product is MOD13Q1 (version 061), with 250 m pixels that combine 16 days of images into one. I downloaded July images for [YEARS] using NASA's AppEEARS API. I used July every year so the years can be compared fairly.
-*Change in NDVI: For each pixel, I averaged the July images from [BEFORE YEAR(S)] and [AFTER YEAR(S)], then subtracted the before map from the after map. Positive values mean greener vegetation, and negative values mean less green (Figure 2).
+* NDVI data: I used NDVI from MODIS, a sensor on NASA's Terra satellite. The product is MOD13Q1 (version 061), with 250 m pixels that combine 16 days of images into one. I downloaded July images for 2015-2017 using NASA's AppEEARS API. I used July every year so the years can be compared fairly at maximum vegetation extent.
+
+*Change in NDVI: For each pixel, I averaged and compared the July images from 2015 and 2016, as well as 2015 and 2017, then subtracted the before map from the after map. Positive values mean greener vegetation, and negative values mean less green (Figure 2).
 
 ### Context
 
@@ -120,8 +121,7 @@ The park is also the most visited national park in the country, peaking at over 
 
 **Figure 1. Drought monitor at the peak of the drought in GSMNP (U.S. Drought Monitor Map).**
 
-As shown in the figure above, Great Smoky Mountains National Park was expereicencing D3 and 
-D4 drought conditions during late fall 2016. Regional soil moisture values had fallen to the second lowest level since 1895. Additioanlly, well above average fall temperatures led to headwater streams going dry, isolating fish and wildlife into pockets (Williams et al.). 
+As shown in the figure above, Great Smoky Mountains National Park was experiencing D3 and D4 drought conditions during late fall 2016. Regional soil moisture values had fallen to the second lowest level since 1895. Additionally, well above average fall temperatures led to headwater streams going dry, isolating fish and wildlife into pockets (Williams et al.). 
 
 ### Results
 
@@ -135,7 +135,7 @@ The interactive map above shows the difference in NDVI across the park. The drou
 
 **Figure 3. dNDVI from 2015 to 2017.**
 
-The interactive map above shows the difference in NDVI across the park. Come 2017, the majorty of the park has reboudned to pre-drought levels of vegetation health. The only exception to this in in the north-central part of the park towrd Gatlinburg, where the Chimney Tops 2 fire burned around 11,000 acres in November 2016. There are also isolated areas where vegetation health has failed to recover by July 2017.  
+The interactive map above shows the difference in NDVI across the park. Come 2017, the majority of the park has rebounded to pre-drought levels of vegetation health. The only exception to this is in the north-central part of the park toward Gatlinburg, where the Chimney Tops 2 fire burned around 11,000 acres in November 2016. There are also isolated areas where vegetation health has failed to recover by July 2017.  
 
 <img src="img/Screenshot%202026-11-24%20195320.png" width="600">
 
@@ -145,16 +145,15 @@ This table shows the quick recovery of vegetation in the park. Within months of 
 
 ### Conclusion
 
-The immediate region around great Smoky Mountains National Park expericed one of its worst droughts on record. The immdeidte short term impacts were felt especially along waterways and in animal behavior, yet it had minimal long term effects. Canopy health and overall vegation health were back to pre-drought levels only months later. 
+The immediate region around Great Smoky Mountains National Park experienced one of its worst droughts on record. The immediate short term impacts were felt especially along waterways and in animal behavior, yet it had minimal long term effects. Canopy health and overall vegetation health were back to pre-drought levels only months later. 
 
-Timing is the main factor that contributed to such a quick recovery in vegatation health. The drought peaked in the fall, when radial and canopy development is done for the year ((Van Kampen et al.). Additaiaonlly, the spring and esrly summer ws met with warm temperature and pletniful rainfall. It has been demonstrated that subsequent-year spring weather accounts for upwards of 50% of ecosystem drought recovery speed. Normal or early warm spring conditions paired with moisture allows deciduous canopies to rebound within a single growing season, whereas delayed springs slow recovery ((Li et al. 184). This was a perfect storm of one of the worst droughts in decades having little to no imapct on vegation heatlh within the park.
-
-Given more time, looking into the recovery around the Chimney Tops 2 fire would be a valuable topic. Fires of that size are rare in Appalachia, and would be a great case study in recovery and how to approach fires in the future in the area. 
-
+Timing is the main factor that contributed to such a quick recovery in vegetation health. The drought peaked in the fall, when radial and canopy development was done for the year ((Van Kampen et al.). Additionally, the spring and early summer was met with warm temperatures and plentiful rainfall. It has been demonstrated that subsequent-year spring weather accounts for upwards of 50% of ecosystem drought recovery speed. Normal or early warm spring conditions paired with moisture allows deciduous canopies to rebound within a single growing season, whereas delayed springs slow recovery ((Li et al. 184). This was a perfect storm of one of the worst droughts in decades having little to no impact on vegetation health within the park.
 
 ## References
 
 Li, Yang, et al. "Widespread Spring Phenology Effects on Drought Recovery of Northern Hemisphere Ecosystems." Nature Climate Change, vol. 13, 2023, pp. 182-88. https://doi.org/10.1038/s41558-022-01584-2.
+
+"Park Statistics." Great Smoky Mountains National Park, National Park Service, U.S. Department of the Interior, 2 June 2025, www.nps.gov/grsm/learn/management/statistics.htm. Accessed 24 Nov. 2026.
 
 "U.S. Drought Monitor Map, [November 29, 2016]." U.S. Drought Monitor, National Drought Mitigation Center, University of Nebraska-Lincoln, [December 1, 2016], droughtmonitor.unl.edu/Maps/MapArchive.aspx. Accessed 24 Nov. 2026.
 

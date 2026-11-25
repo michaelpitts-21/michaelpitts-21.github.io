@@ -155,7 +155,7 @@ Li, Yang, et al. "Widespread Spring Phenology Effects on Drought Recovery of Nor
 
 "Park Statistics." Great Smoky Mountains National Park, National Park Service, U.S. Department of the Interior, 2 June 2025, www.nps.gov/grsm/learn/management/statistics.htm. Accessed 24 Nov. 2026.
 
-"U.S. Drought Monitor Map, [November 29, 2016]." U.S. Drought Monitor, National Drought Mitigation Center, University of Nebraska-Lincoln, [December 1, 2016], droughtmonitor.unl.edu/Maps/MapArchive.aspx. Accessed 24 Nov. 2026.
+"U.S. Drought Monitor Map, November 29, 2016." U.S. Drought Monitor, National Drought Mitigation Center, University of Nebraska-Lincoln, December 1, 2016, droughtmonitor.unl.edu/Maps/MapArchive.aspx. Accessed 24 Nov. 2026.
 
 Van Kampen, Ruth, et al. "Drought Timing and Species Growth Phenology Determine Intra-Annual Recovery of Tree Height and Diameter Growth." AoB Plants, vol. 14, no. 3, 18 Mar. 2022, article plac012. https://doi.org/10.1093/aobpla/plac012.
 

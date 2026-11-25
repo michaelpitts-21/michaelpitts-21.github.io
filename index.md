@@ -109,11 +109,16 @@ The park is also the most visited national park in the country, peaking at over 
 
 ### Data and Methods
 
+* Study area: I used the Great Smoky Mountains National Park boundary from the National Park Service (Figure 1).
+
+* NDVI data: I used NDVI from MODIS, a sensor on NASA's Terra satellite. The product is MOD13Q1 (version 061), with 250 m pixels that combine 16 days of images into one. I downloaded July images for [YEARS] using NASA's AppEEARS API. I used July every year so the years can be compared fairly.
+*Change in NDVI: For each pixel, I averaged the July images from [BEFORE YEAR(S)] and [AFTER YEAR(S)], then subtracted the before map from the after map. Positive values mean greener vegetation, and negative values mean less green (Figure 2).
+
 ### Context
 
 <img src="img/20161129_usdm.png" width="600">
 
-**Figure 1. Drought monitor at the peak of the drought in GSMNP.**
+**Figure 1. Drought monitor at the peak of the drought in GSMNP (U.S. Drought Monitor Map).**
 
 As shown in the figure above, Great Smoky Mountains National Park was expereicencing D3 and 
 D4 drought conditions during late fall 2016. Regional soil moisture values had fallen to the second lowest level since 1895. Additioanlly, well above average fall temperatures led to headwater streams going dry, isolating fish and wildlife into pockets (Williams et al.). 
@@ -140,8 +145,19 @@ This table shows the quick recovery of vegetation in the park. Within months of 
 
 ### Conclusion
 
+The immediate region around great Smoky Mountains National Park expericed one of its worst droughts on record. The immdeidte short term impacts were felt especially along waterways and in animal behavior, yet it had minimal long term effects. Canopy health and overall vegation health were back to pre-drought levels only months later. 
+
+Timing is the main factor that contributed to such a quick recovery in vegatation health. The drought peaked in the fall, when radial and canopy development is done for the year ((Van Kampen et al.). Additaiaonlly, the spring and esrly summer ws met with warm temperature and pletniful rainfall. It has been demonstrated that subsequent-year spring weather accounts for upwards of 50% of ecosystem drought recovery speed. Normal or early warm spring conditions paired with moisture allows deciduous canopies to rebound within a single growing season, whereas delayed springs slow recovery ((Li et al. 184). This was a perfect storm of one of the worst droughts in decades having little to no imapct on vegation heatlh within the park.
+
+Given more time, looking into the recovery around the Chimney Tops 2 fire would be a valuable topic. Fires of that size are rare in Appalachia, and would be a great case study in recovery and how to approach fires in the future in the area. 
 
 
 ## References
+
+Li, Yang, et al. "Widespread Spring Phenology Effects on Drought Recovery of Northern Hemisphere Ecosystems." Nature Climate Change, vol. 13, 2023, pp. 182-88. https://doi.org/10.1038/s41558-022-01584-2.
+
+"U.S. Drought Monitor Map, [November 29, 2016]." U.S. Drought Monitor, National Drought Mitigation Center, University of Nebraska-Lincoln, [December 1, 2016], droughtmonitor.unl.edu/Maps/MapArchive.aspx. Accessed 24 Nov. 2026.
+
+Van Kampen, Ruth, et al. "Drought Timing and Species Growth Phenology Determine Intra-Annual Recovery of Tree Height and Diameter Growth." AoB Plants, vol. 14, no. 3, 18 Mar. 2022, article plac012. https://doi.org/10.1093/aobpla/plac012.
 
 Williams, A. Park, et al. "The 2016 Southeastern US Drought: An Extreme Departure from Centennial Wetting and Cooling." Journal of Geophysical Research: Atmospheres, vol. 122, no. 20, 27 Oct. 2017, pp. 10888-905. https://doi.org/10.1002/2017JD027523.

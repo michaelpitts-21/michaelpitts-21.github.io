@@ -113,7 +113,7 @@ The park is also the most visited national park in the country, peaking at over 
 
 * NDVI data: I used NDVI from MODIS, a sensor on NASA's Terra satellite. The product is MOD13Q1 (version 061), with 250 m pixels that combine 16 days of images into one. I downloaded July images for 2015-2017 using NASA's AppEEARS API. I used July every year so the years can be compared fairly at maximum vegetation extent.
 
-*Change in NDVI: For each pixel, I averaged and compared the July images from 2015 and 2016, as well as 2015 and 2017, then subtracted the before map from the after map. Positive values mean greener vegetation, and negative values mean less green (Figure 2).
+* Change in NDVI: For each pixel, I averaged and compared the July images from 2015 and 2016, as well as 2015 and 2017, then subtracted the before map from the after map. Positive values mean greener vegetation, and negative values mean less green (Figure 2).
 
 ### Context
 

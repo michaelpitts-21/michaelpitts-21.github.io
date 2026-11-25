@@ -132,7 +132,7 @@ The interactive map above shows the difference in NDVI across the park. The drou
 
 The interactive map above shows the difference in NDVI across the park. Come 2017, the majorty of the park has reboudned to pre-drought levels of vegetation health. The only exception to this in in the north-central part of the park towrd Gatlinburg, where the Chimney Tops 2 fire burned around 11,000 acres in November 2016. There are also isolated areas where vegetation health has failed to recover by July 2017.  
 
-<img src="img/20161129_usdm.png" width="600">
+<img src="img/Screenshot%202026-11-24%20195320.png" width="600">
 
 **Figure 4. NDVI values from 2105, 2016, and 2017.**
 

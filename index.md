@@ -95,11 +95,13 @@ U.S. Army Corps of Engineers, St. Louis District. (n.d.). Pelican migration shee
 
 
 
+
+
 ## Great Smoky Mountains NP Vegetation Health and Response to the 2016 Drought
 
 ### Area Overview
 
-Great Smoky Mountains National Park is located in the Southern Appalachian Mountains, where it straddles the Tennessee and North Carolina border approximately 25 miles to the south of Knoxville, Tennessee and 30 miles west of Asheville, North Carolina. The park spans over 800 square miles, or more than 500,000 acres and has elevations ranging from 875 feet to 6,643 feet at the summit of Kuwohi. Precipitaion is plentifyul within the park,with around 55 inches of annual precipitaion at the lwoer evelations and up to 85 inches each year on the parks highest peaks and favored ridges. 
+Great Smoky Mountains National Park is located in the Southern Appalachian Mountains, where it straddles the Tennessee and North Carolina border approximately 25 miles to the south of Knoxville, Tennessee and 30 miles west of Asheville, North Carolina. The park spans over 800 square miles, or more than 500,000 acres and has elevations ranging from 875 feet to 6,643 feet at the summit of Kuwohi. Precipitaion is plentifyul within the park, with around 55 inches of annual precipitaion at the lower evelations and up to 85 inches each year on the parks highest peaks and favored ridges. 
 
 The diverse range of elevation and high precipatin totals in the continiaal United staes outisde of the olympic Peniusla in Washingotn create an excetioanl envirnment for biodvierstity. The park is home to over 22,700 species, with around 1,000 of thsoe being unique to the area. Due to an extemyl moist climate, the park is home to 30 salamander species, the hgihest concentration in the world. The park has an exceptionally diverse palnt community arpparoching 2,500 unique species, but in gneral is dominted by spruce-fir, pine-oak, and oak-hickory among others depending on elcation ans aspect.
 
@@ -114,19 +116,27 @@ The park is also the most visited national park in the country, peaking at over 
 **Figure 1. Drought monitor at the peak of the drought in GSMNP.**
 
 As shown in the figure above, Great Smoky Mountains National Park was expereicencing D3 and 
-D4 drought conditions. Regional soil moisture values had fallen to the second lowest level since 1895. Additioanlly, well above average fall temperatures led to headwater streams going dry, osilting fish and wildlife into pockets (Williams et al.). 
+D4 drought conditions during late fall 2016. Regional soil moisture values had fallen to the second lowest level since 1895. Additioanlly, well above average fall temperatures led to headwater streams going dry, isolating fish and wildlife into pockets (Williams et al.). 
+
+### Results
 
 <embed type="text/html" src="img/gsmnp_dndvi1516.html" width="700" height="400">
 
 **Figure 2. dNDVI from 2015 to 2016.**
 
-The interactive map above shows the differnece in NDVI acorss the park. The drought clearly has an imemditee effect on vegation, with values dropping notably acorss teh park. 
+The interactive map above shows the difference in NDVI across the park. The drought clearly has an immediate effect on vegetation, with values dropping notably across the park. The decline in vegetation health is much more prevalent in the northern two thirds of the park. 
 
 <embed type="text/html" src="img/gsmnp_dndvi1517.html" width="700" height="400">
 
 **Figure 3. dNDVI from 2015 to 2017.**
 
-The interactive map above shows the differnece in NDVI acorss the park. Come 2017, the majorty of the park has reboudned to pre-drought levels of vegation health. 
+The interactive map above shows the difference in NDVI across the park. Come 2017, the majorty of the park has reboudned to pre-drought levels of vegetation health. The only exception to this in in the north-central part of the park towrd Gatlinburg, where the Chimney Tops 2 fire burned around 11,000 acres in November 2016. There are also isolated areas where vegetation health has failed to recover by July 2017.  
+
+<img src="img/20161129_usdm.png" width="600">
+
+**Figure 4. NDVI values from 2105, 2016, and 2017.**
+
+### Conclusion
 
 
 

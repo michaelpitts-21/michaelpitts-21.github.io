@@ -95,8 +95,19 @@ U.S. Army Corps of Engineers, St. Louis District. (n.d.). Pelican migration shee
 
 
 
-### dNDVI in Great Smoky Mountains National Park Before, During, and After 2016 Drought
+## Great Smoky Mountains NP Vegetation Health and Response to the 2016 Drought
 
+### Area Overview
+
+Great Smoky Mountains National Park is located in the Southern Appalachian Mountains, where it straddles the Tennessee and North Carolina border approximately 25 miles to the south of Knoxville, Tennessee and 30 miles west of Asheville, North Carolina. The park spans over 800 square miles, or more than 500,000 acres and has elevations ranging from 875 feet to 6,643 feet at the summit of Kuwohi. Precipitaion is plentifyul within the park,with around 55 inches of annual precipitaion at the lwoer evelations and up to 85 inches each year on the parks highest peaks and favored ridges. 
+
+The diverse range of elevation and high precipatin totals in the continiaal United staes outisde of the olympic Peniusla in Washingotn create an excetioanl envirnment for biodvierstity. The park is home to over 22,700 species, with around 1,000 of thsoe being unique to the area. Due to an extemyl moist climate, the park is home to 30 salamander species, the hgihest concentration in the world. The park has an exceptionally diverse palnt community arpparoching 2,500 unique species, but in gneral is dominted by spruce-fir, pine-oak, and oak-hickory among others depending on elcation ans aspect.
+
+The park is also the most visited national park in the country, peaking at over 14 million visitors in 2021. This is mainly due to the fact the park in located close to major population centers such as Nashville, Charlotte, and Atlanta. 
+
+### Data and Methods
+
+### Context
 
 
 <embed type="text/html" src="img/gsmnp_dndvi1516.html" width="700" height="600">

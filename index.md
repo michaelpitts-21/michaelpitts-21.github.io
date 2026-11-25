@@ -99,4 +99,4 @@ U.S. Army Corps of Engineers, St. Louis District. (n.d.). Pelican migration shee
 
 
 
-<embed type="text/html" src="img/gsmnp_dndvi1516.html" width="500" height="600">
+<embed type="text/html" src="img/gsmnp_dndvi1516.html" width="700" height="600">

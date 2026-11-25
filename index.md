@@ -108,7 +108,7 @@ The park is also the most visited national park in the country, peaking at over 
 ### Data and Methods
 
 ### Context
-
+<img src="img/20161129_usdm.png" width="600">
 
 <embed type="text/html" src="img/gsmnp_dndvi1516.html" width="700" height="600">
 
